@@ -32,15 +32,15 @@ Follow these steps for completing your project.
 - [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
 - [x] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [x] Do your magic!
 
 ## Minimum Viable Product
 
-- [ ] Build a React Redux app
-- [ ] Fetch data inside an async action creator from an API of your choosing
-- [ ] Add the data from the API to the Redux store
-- [ ] Display the data from the store in a component
-- [ ] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
+- [x] Build a React Redux app
+- [x] Fetch data inside an async action creator from an API of your choosing
+- [x] Add the data from the API to the Redux store
+- [x] Display the data from the store in a component
+- [x] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
 
 ## Directions
 
@@ -51,3 +51,4 @@ Once you have chosen an API to consume, build an app that makes sense for the da
 ## Stretch Problems
 
 Take the app as far as you can go! Styling, redux hooks, another API, an input to fetch data dynamically, etc. Work on it, improve it until the end of the day. If you find yourself finishing with time left to spare, jump on with your TL or fellow student to ask them what feature they think you should build next. Good luck!
+ > Fetching data dynamically O.o
